@@ -10,7 +10,7 @@ Meu objetivo é criar experiências digitais envolventes e amigáveis, combinand
 
 ---
 
-### Minhas Skills
+<h2> Minhas Skills</h2>
 
 **Conhecimentos**
 
@@ -26,7 +26,7 @@ Meu objetivo é criar experiências digitais envolventes e amigáveis, combinand
 
 ---
 
-### Onde me achar
+<h2>Onde me achar</h2>
 
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-paula-benjamin-43a964255/" /></a>
