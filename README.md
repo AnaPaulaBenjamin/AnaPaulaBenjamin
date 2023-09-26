@@ -8,7 +8,7 @@ Meu objetivo é criar experiências digitais envolventes e amigáveis, combinand
 - 🎨 Adoro explorar novas tendências de design e criar interfaces atraentes.
 - 🌐 Estou sempre aprendendo e acompanhando as evoluções no mundo do desenvolvimento web.
 
----
+<br>
 
 <h2> Minhas Skills</h2>
 
@@ -24,7 +24,7 @@ Meu objetivo é criar experiências digitais envolventes e amigáveis, combinand
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
----
+<br>
 
 <h2>Onde me achar</h2>
 
