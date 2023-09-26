@@ -3,7 +3,7 @@
 > Desenvolvedora Front-end e Design UX/UI.
 
 Minha jornada na programação começou com HTML, CSS e JavaScript, e desde então tenho explorado frameworks modernos como React e descobri a paixão por Design de interface.
-Meu objetivo é criar experiências digitais envolventes e amigáveis, combinando minhas habilidades técnicas com minha criatividade em design de interface.
+Meu objetivo é criar experiências digitais envolventes e amigáveis, combinando minhas habilidades técnicas com minha criatividade em UIdesign.
 
 - 🎨 Adoro explorar novas tendências de design e criar interfaces atraentes.
 - 🌐 Estou sempre aprendendo e acompanhando as evoluções no mundo do desenvolvimento web.
