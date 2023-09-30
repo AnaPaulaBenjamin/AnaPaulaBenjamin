@@ -1,6 +1,6 @@
 <h1> Olá, sou a Ana Paula Benjamin 👩‍💻</h1>
 
-> Desenvolvedora Front-end e Design UX/UI.
+> Desenvolvedora Front-end e UI Design.
 
 Minha jornada na programação começou com HTML, CSS e JavaScript, e desde então tenho explorado frameworks modernos como React e descobri a paixão por Design de interface.
 Meu objetivo é criar experiências digitais envolventes e amigáveis, combinando minhas habilidades técnicas com minha criatividade em UI design.
