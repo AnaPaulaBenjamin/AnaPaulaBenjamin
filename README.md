@@ -38,6 +38,6 @@ Meu objetivo é criar experiências digitais envolventes e amigáveis, combinand
 
 <h2>Conheça meu Portfólio</h2>
 
-<a href="https://anapaulabenjamin.netlify.app/" alt="Portfólio">
+<a href="https://anapaulabenjamin.netlify.app/" alt="Portfólio" target="_blank">
 <p>🚀 Ana Paula Benjamin</p>
 </a>
