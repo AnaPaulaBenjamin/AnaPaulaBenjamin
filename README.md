@@ -27,8 +27,6 @@ Meu objetivo é criar experiências digitais envolventes e amigáveis, combinand
 <a href="https://www.linkedin.com/in/ana-paula-benjamin-43a964255/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
-
-<br>
   
 <a href="mailto:anabenjamin.dev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
