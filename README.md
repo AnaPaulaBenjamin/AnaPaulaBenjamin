@@ -39,3 +39,11 @@ Meu objetivo é criar experiências digitais envolventes e amigáveis, combinand
 <a href="https://www.instagram.com/ana.benjamin0/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
 </a>
+
+<br>
+
+<h2>Conheça meu Portfólio</h2>
+
+<a href="https://anapaulabenjamin.netlify.app/" alt="Portfólio">
+  🚀
+</a>
